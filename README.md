@@ -1,11 +1,13 @@
 # RSSBot
 Discord bot serving as a subreddit crawler, posts images found.
 
+```
 ///////////////////////
 // CHITOGEKID RSSBOT //
 //  AKA --- MOEBOT   //
 //   VERSION: 1.4    //
 ///////////////////////
+```
 
 The bot is a simple managed Reddit crawler. It finds images, it posts images. 
 This bot tends to work best with pages like /r/awwnime and/or /r/pics
