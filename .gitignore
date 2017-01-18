@@ -1,2 +1,4 @@
 *.zip
 RSSBotOld/
+RSSBot/obj/
+RSSBot/bin/
