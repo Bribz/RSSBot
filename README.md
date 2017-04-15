@@ -3,7 +3,7 @@ Discord bot serving as a subreddit crawler, posts images found.
 
 ```
 ///////////////////////
-// CHITOGEKID RSSBOT //
+//  PINECONE RSSBOT  //
 //  AKA --- MOEBOT   //
 //   VERSION: 1.4    //
 ///////////////////////
